@@ -1,0 +1,45 @@
+body {
+    color: black;
+    margin: 0;
+    letter-spacing: -.003em;
+    font-size: 21px;
+    line-height: 1.58;
+    background-color: beige;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Comic Sans MS",Times,serif;
+    height: 230px;
+}
+
+div.left {
+    width: 50%;
+    float: left;
+}
+
+div.right {
+    /* width: 50%;*/
+    float: right;
+}
+
+div.clear {
+    clear: both;
+}
+
+div.title {
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+    text-align: center;
+}
+
+body .intro-text {
+    background-position: center;
+}
+
+body .intro-image {
+    background-position-x: center;
+}
